@@ -8,3 +8,9 @@ how are you
 
 what going on
 """)
+
+print(20+5)
+print(20-5)
+print(20*5)
+print(20/5)
+print(22%5)
